@@ -1,6 +1,6 @@
 {
-  "title": "test-scenario-1",
-  "description": "this is a test",
+  "title": "my-first-scenario",
+  "description": "test scenario",
   "difficulty": "Beginner",
   "time": "2 minutes",
   "details": {
