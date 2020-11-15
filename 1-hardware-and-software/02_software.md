@@ -11,4 +11,4 @@ No, we're talking about base software, like:
 - Device Drivers
 - Operating Systems (OS)
 
-These basic softwares are the translators! The convert everything any human or programs wants to do, into signals that the hardware can understand. 
+These basic softwares are the translators! They convert anything a human or program wants to do into signals that the hardware can understand. 
