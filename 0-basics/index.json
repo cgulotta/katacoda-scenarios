@@ -12,6 +12,10 @@
       {
         "title": "The Software",
         "text": "02_software.md"
+      },
+      {
+        "title": "The Recap",
+        "text": "03_recap.md"
       }
     ],
     "intro": {
