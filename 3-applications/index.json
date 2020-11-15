@@ -1,0 +1,26 @@
+{
+  "title": "Lesson 3: Applications",
+  "description": "This scenario introduce the basics of application development",
+  "difficulty": "Basic",
+  "time": "6 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Starting out",
+        "text": "01_initial.md"
+      }
+    ],
+    "intro": {
+      "text": "00_intro.md"
+    },
+    "finish": {
+      "text": "99_finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "vscode-terminal-split"
+  },
+  "backend": {
+    "imageid": "python:3.6"
+  }
+}
