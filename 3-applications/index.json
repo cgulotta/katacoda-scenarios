@@ -17,6 +17,7 @@
       "text": "99_finish.md"
     }
   },
+  "files": ["game.py"],
   "environment": {
     "uilayout": "vscode-terminal-split"
   },
