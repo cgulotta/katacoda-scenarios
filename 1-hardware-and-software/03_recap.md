@@ -1,6 +1,6 @@
 ## RECAP TIME!
 
->>Q1: _______ is critical a piece of computer hardware<<
+>>Q1: The _______ is critical a piece of computer hardware<<
 [*] Enclosure
 [*] Motherboard
 [ ] Sound Card

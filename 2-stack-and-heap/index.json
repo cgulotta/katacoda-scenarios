@@ -26,9 +26,9 @@
     }
   },
   "environment": {
-    "uilayout": "iframe"
+    "uilayout": "terminal"
   },
   "backend": {
-    "url": "https://httpbin.org"
+    "imageid": "python:3.6"
   }
 }
