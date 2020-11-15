@@ -1,6 +1,8 @@
-import pygame
-pygame.init()
-dis=pygame.display.set_mode((400,300))
-pygame.display.update()
-pygame.quit()
-quit()
+def say_hello():
+    '''
+    Prints hello string when run from command line
+    '''
+    print("hello")
+
+if __name__ == '__main__':
+    say_hello()
