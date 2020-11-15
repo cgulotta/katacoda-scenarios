@@ -19,7 +19,7 @@
   },
   "files": ["game.py"],
   "environment": {
-    "uilayout": "vscode-terminal-split"
+    "uilayout": "editor-terminal"
   },
   "backend": {
     "imageid": "python:3.6"
