@@ -1,0 +1,30 @@
+{
+  "title": "The Basics",
+  "description": "This scenario will teach you the basics of the computer",
+  "difficulty": "Beginner",
+  "time": "3 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "The Hardware",
+        "text": "01_hardware.md"
+      },
+      {
+        "title": "The Software",
+        "text": "02_software.md"
+      }
+    ],
+    "intro": {
+      "text": "00_intro.md"
+    },
+    "finish": {
+      "text": "9_finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "python:3.6"
+  }
+}
