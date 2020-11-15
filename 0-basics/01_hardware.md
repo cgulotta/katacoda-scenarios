@@ -1,4 +1,4 @@
-##For most computers there are a couple of critical physical components:
+## For most computers there are a couple of critical physical components:
 
 ![hardware_components](assets/hardware_components.jpg)
 
