@@ -1,6 +1,6 @@
 ##For most computers there are a couple of critical physical components:
 
-![hardware_components](images/hardware_components.jpg)
+![hardware_components](assets/hardware_components.jpg)
 
 - Enclosure: A convienient case to hold all the components securely  in place
 - Power Supply: Converts Alternating Current (AC) power from your wall to Direct Current (DC) power that the electronics can use.

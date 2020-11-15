@@ -1,9 +1,9 @@
 ## For most computers there is basic software which allows the user to do what they want
 
 This doesn't include the programs you might typically think of like:
-![instagram](./images/instagram.gif)
+![instagram](assets/instagram.gif)
 ## OR
-![starcraft](./images/starcraft.gif)
+![starcraft](assets/starcraft.gif)
 
 No, we're talking about base software, like:
 
