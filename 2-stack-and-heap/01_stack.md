@@ -3,7 +3,7 @@
 Picture in your head a stack of blocks:
 ![blocks](assets/blocks.jpg)
 
-If you want to add or remove a block, you have to either _push_ it to or _pop_ it from the top.
+If you want to add or remove a block, you must do so from the top. This means that last block on the top is the first block to be removed. Stacks operate on a Last-In-First-Out (LIFO) basis.
 
 This is how your computer looks at instructions and variables. The instructions which are read and executed by the Central Processing Unit (CPU) are called _machine code_.
 

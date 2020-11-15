@@ -26,9 +26,9 @@
     }
   },
   "environment": {
-    "uilayout": "terminal"
+    "uilayout": "iframe"
   },
   "backend": {
-    "imageid": "python:3.6"
+    "url": "https://godbolt.org"
   }
 }
