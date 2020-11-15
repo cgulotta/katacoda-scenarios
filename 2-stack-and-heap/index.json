@@ -1,0 +1,34 @@
+{
+  "title": "The Stack and the Heap",
+  "description": "This scenario introduce the concepts of the  program stack and heap",
+  "difficulty": "Intermediate",
+  "time": "6 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "The Stack",
+        "text": "01_stack.md"
+      },
+      {
+        "title": "The Heap",
+        "text": "02_heap.md"
+      },
+      {
+        "title": "In action",
+        "text": "03_activity.md"
+      }
+    ],
+    "intro": {
+      "text": "00_intro.md"
+    },
+    "finish": {
+      "text": "99_finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "iframe"
+  },
+  "backend": {
+    "url": "https://godbolt.org/"
+  }
+}
