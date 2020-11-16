@@ -18,7 +18,7 @@
     },
     "assets": { "host01": [ {"file": "example/*", "target": "/root/example"} ] }
   },
-  "files": ["~/game.py"],
+  "files": ["/root/example/game.py"],
   "environment": {
     "uieditorpath": "/root/example",
     "uilayout": "editor-terminal"
