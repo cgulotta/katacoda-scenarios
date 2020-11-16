@@ -16,10 +16,11 @@
     "finish": {
       "text": "99_finish.md"
     },
-    "assets": { "host01": [ {"file": "*", "target": "/root"} ] }
+    "assets": { "host01": [ {"file": "example/*", "target": "/root/example"} ] }
   },
   "files": ["~/game.py"],
   "environment": {
+    "uieditorpath": "/root/example",
     "uilayout": "editor-terminal"
   },
   "backend": {
