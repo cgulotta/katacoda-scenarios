@@ -27,7 +27,6 @@
   },
   "files": ["game.py"],
   "environment": {
-    "uieditorpath": "/root/example",
     "uilayout": "editor-terminal"
   },
   "backend": {
