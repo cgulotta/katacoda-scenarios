@@ -4,10 +4,11 @@ def start_adventure():
 
     if door == 'red':
         print('As you open the red door, a fiendish goblin springs to attack you!')
+        # TODO: EDIT THIS
     elif door == 'blue':
         print('You walk through the blue door and find an open treasure chest glittering with gold coins')
     else:
-        print('I'm afraid that's not an option.')
+        print('Try again.')
         start_adventure()
 
 if __name__ == '__main__':
