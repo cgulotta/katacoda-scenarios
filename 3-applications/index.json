@@ -16,14 +16,7 @@
     "finish": {
       "text": "99_finish.md"
     },
-    "assets": {
-      "client": [
-        {
-          "file": "game.py",
-          "target": "~/"
-        }
-      ]
-    }
+    "assets": { "host01": [ {"file": "*", "target": "/root"} ] }
   },
   "files": ["game.py"],
   "environment": {
