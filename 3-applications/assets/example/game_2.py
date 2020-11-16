@@ -1,6 +1,6 @@
 def start_adventure():
     print('You enter a room with two doors, one red, one blue.')
-    door = input('which do you choose?')
+    door = input('which do you choose? ')
 
     if door == 'red':
         print('As you open the red door, a fiendish goblin springs to attack you!')
