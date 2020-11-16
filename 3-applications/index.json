@@ -6,8 +6,12 @@
   "details": {
     "steps": [
       {
-        "title": "Starting out",
-        "text": "01_initial.md"
+        "title": "Functions and Print",
+        "text": "01.md"
+      },
+      {
+        "title": "Input",
+        "text": "02.md"
       }
     ],
     "intro": {
@@ -18,7 +22,6 @@
     },
     "assets": { "host01": [ {"file": "**/example/*", "target": "/root"} ] }
   },
-  "files": ["game.py"],
   "environment": {
     "uieditorpath": "/root/example",
     "uilayout": "editor-terminal"
