@@ -1,18 +1,7 @@
-## Great job!
+## Congrats
 
-That was really hard!
+You are officially a game developer!
 
-![hard](assets/hard.gif)
+![developer](assets/developer.jpg)
 
-## It's okay if that isn't crystal clear! 
-### The main takeaways are:
-- *instructions (and variables) live on the stack*
-- *large objects live on the heap*
-- *memory addresses are put on the stack to reference objects in the heap*
-
-To learn more about the stack and heap, watch this video!
-<iframe width="700" height="400" src="https://www.youtube.com/embed/Q2sFmqvpBe0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-
+If you want to continue creating your game, follow along [this tutorial!](https://coding-grace-guide.readthedocs.io/en/latest/guide/lessonplans/beginners-python-text-based-adventure.html)
