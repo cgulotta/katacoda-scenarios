@@ -15,8 +15,17 @@
     },
     "finish": {
       "text": "99_finish.md"
+    },
+    "assets": {
+      "client": [
+        {
+          "file": "game.py",
+          "target": "~/"
+        }
+      ]
     }
-  },
+  }
+},
   "files": ["game.py"],
   "environment": {
     "uieditorpath": "/root/example",
