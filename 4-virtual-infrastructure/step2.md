@@ -2,8 +2,8 @@
 
 >>Q1: What does VM stand for?<<
 ( ) Virtual Mind
-(*) Virtual Manager
-( ) Virtual Machine
+( ) Virtual Manager
+(*) Virtual Machine
 ( ) Vegan Meat
 
 >>Q2: What is a VM?<<
