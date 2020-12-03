@@ -9,20 +9,20 @@
 >>Q2: What is a VM?<<
 [*] A software-based computer
 [ ] A plant-based alternative protein
-[*] Runner of operating systems
-[*] Runner of applications
+[*] Able to run operating systems
+[*] Able to run applications
 
 >>Q3: What does VMM stand for?<<
-( ) Virtual Mind
-(*) Virtual Machine Manager
-( ) Virtual Machine
+( ) Very Mean Monster
+( ) Virtual Machine Monitor
 ( ) Vegan Meat Machine
+(*) Virtual Machine Manager
 
 >>Q3: True or False: Hypervisors are VMMs.<<
 (*) True
 ( ) False
 
->>Q4: What are the different types of Hypervisors?
+>>Q4: What are the different types of Hypervisors? <<
 [*] Type 1
 [*] Type 2
 [ ] Type 3

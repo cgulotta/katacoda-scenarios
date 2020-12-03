@@ -1,8 +1,8 @@
 {
   "title": "Virtual Infrastructure",
-  "description": "This scenario with introduce you to the basics  of virtual infrastructure include virtual machines (VM) and virtual machine managers (VMMs) otherwise known as hypervisors!",
+  "description": "This scenario with introduce to the basics of virtual infrastructure including virtual machines (VM) and virtual machine managers (VMMs) otherwise known as hypervisors!",
   "difficulty": "Intermediate",
-  "time": "5 minutes",
+  "time": "7 minutes",
   "details": {
     "steps": [
       {
