@@ -1,17 +1,19 @@
 # Virtual Appliances
 
-A virtual appliance is a pre-configured _virtual machine image_, ready to run on a hypervisor.
+![virtual_appliance](assets/virtual-appliance-1.jpg)
 
- Some examples of virtual appliances are:
+A virtual appliance is a pre-configured _virtual machine image_, ready to run on a _hypervisor_.
+
+## Some examples of virtual appliances are:
  
-## Amazon Machine Image (AMI)
+### Amazon Machine Image (AMI)
  
  ![aws](assets/aws.png)
  
  An Amazon Machine Image (AMI) is a special type of virtual appliance that is used to create a virtual machine within 
  the Amazon Elastic Compute Cloud ("EC2"). It serves as the basic unit of deployment for services delivered using EC2.
  
-## Google Cloud Compute Machine Images 
+### Google Cloud Compute Machine Images 
 
 ![google_cloud](assets/gcp.png)
 
