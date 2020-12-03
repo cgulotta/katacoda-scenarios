@@ -10,13 +10,15 @@ Imagine everything on your current computer contained in a single file.
 
 ## Let's explore an example:
 
-![macbook](assets/macbook.jpg)
-
 Let's say your friend just lent you their Macbook with the latest version of MacOS, _Big Sur_.
+
+![macbook](assets/macbook.jpg)
 
 As you open it up, you see a couple of programs running: 
 
 ![programs](assets/macos-mojave-recent-apps.jpg)
+
+Things like Notes, Dictionary, Preview, Messenger, and iTunes.
 
 ### Using the trackpad, you click on _Safari_ and using the keyboard, you type in _www.youtube.com_.
 

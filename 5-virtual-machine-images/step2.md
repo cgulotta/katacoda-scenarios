@@ -13,7 +13,7 @@ Based on the previous example...
 
 >>Q2: What is a Virtual Machine Image?<<
 (*) A file containing the entire running state of a computer system
-( ) An instagram picture of the new Macbook
+( ) An Instagram picture of the new Macbook
 ( ) An image produced by an optical system when light rays from a source do not cross
 ( ) A system checkpoint
 
