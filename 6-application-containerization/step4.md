@@ -15,7 +15,7 @@ Docker Files in the next lesson. For now, run the following commands to build th
 Docker Image, and run the Docker Container.
 
 ### 1. Build the Docker Image
-**`docker build -t katacoda_example_game:latest .`{{execute}}** 
+**`docker build -t katacoda_example_game:latest example`{{execute}}** 
 
 ### 2. Run the Docker Container
-**`docker run -t katacoda_example_game:latest`{{execute}}**
+**`docker run -it katacoda_example_game:latest`{{execute}}**

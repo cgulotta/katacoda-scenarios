@@ -1,1 +1,1 @@
-docker run -t katacoda_example_game:latest
+docker run -it katacoda_example_game:latest

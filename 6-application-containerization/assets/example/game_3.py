@@ -4,7 +4,7 @@ def start_adventure():
 
     if door == 'red':
         print('As you open the red door, a fiendish goblin springs to attack you!')
-        next_move = input('Do you fight or do you flee?')
+        next_move = input('Do you fight or do you flee? ')
         if next_move == 'fight':
             print('You died.')
         else:
@@ -16,6 +16,6 @@ def start_adventure():
         start_adventure()
 
 if __name__ == '__main__':
-    player_name = input('whats your name? >')
+    player_name = input('whats your name? ')
     print(f"Your name is: {player_name}")
     start_adventure()
