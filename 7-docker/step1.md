@@ -19,7 +19,11 @@ INSTRUCTION arguments
 The instruction is not case-sensitive. However, convention is for them to be UPPERCASE 
 to distinguish them from arguments more easily.
 
-Docker runs instructions in a Dockerfile in order. A Dockerfile must begin with a 
+Docker runs instructions in a Dockerfile in order. 
+
+## FROM
+
+A Dockerfile must begin with a 
 FROM instruction. This may be after parser directives, comments, and globally scoped 
 ARGs. The FROM instruction specifies the Parent Image from which you are building. 
 FROM may only be preceded by one or more ARG instructions, which declare arguments 

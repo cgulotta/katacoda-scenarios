@@ -6,11 +6,11 @@
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Dockerfile",
         "text": "step1.md"
       },
       {
-        "title": "Step 2",
+        "title": "Execution Instructions",
         "text": "step2.md"
       },
       {
