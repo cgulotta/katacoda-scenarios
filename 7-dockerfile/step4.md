@@ -1,5 +1,7 @@
 # ENV, ARG, USER, and WORKDIR
 
+What if I want to change things about the runtime environment?
+
 ## ENV
 
 `ENV <key>=<value> ...`

@@ -1,5 +1,7 @@
 # RUN, ENTRYPOINT, & CMD
 
+So how do we use the dockerfile to run things?
+
 ## RUN
 
 RUN has 2 forms:

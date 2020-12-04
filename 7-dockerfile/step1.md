@@ -1,9 +1,7 @@
 ## What is a Dockerfile?
 
-**click `Dockerfile`{{open}} to open**
-
 Docker can build images automatically by reading the instructions from a Dockerfile. 
-A Dockerfile is a text document that contains all the commands a user could call on 
+A **Dockerfile** is a text document that contains all the commands a user could call on 
 the command line to assemble an image. Using docker build users can create an automated 
 build that executes several command-line instructions in succession.
 
@@ -16,7 +14,7 @@ Here is the format of the Dockerfile:
 INSTRUCTION arguments
 ```
 
-The instruction is not case-sensitive. However, convention is for them to be UPPERCASE 
+The instruction is not case-sensitive. However, _convention_ is for them to be UPPERCASE 
 to distinguish them from arguments more easily.
 
 Docker runs instructions in a Dockerfile in order. 
