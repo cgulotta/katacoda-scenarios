@@ -52,7 +52,7 @@ your build can use a `COPY` instruction to reference a file in the context.
 
 ## Let's try it!
 
-click `example/Dockerfile`{{open}} to view `Dockerfile` we built in the last lesson!
+click `Dockerfile`{{open}} to view `Dockerfile` we built in the last lesson!
 
 click  `docker build -t text-adventure:v1.0.0 example`{{execute}} to build the docker image!
 

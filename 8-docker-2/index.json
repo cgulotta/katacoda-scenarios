@@ -27,6 +27,7 @@
     "assets": { "host01": [ {"file": "**/example/*", "target": "/root"} ] }
   },
   "environment": {
+    "uieditorpath": "/root/example",
     "uilayout": "editor-terminal"
   },
   "backend": {
