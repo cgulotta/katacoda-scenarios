@@ -24,6 +24,6 @@ Like `docker build`, `docker run` has many more options which you can checkout
 
 Look for the image you just built using `docker images`{{execute}}
 
-Then run that image using `docker run -it text-adventure:v1.0.0 python3`{{execute}}
+Then run that image using `docker run -it text-adventure:v1.0.0`{{execute}}
 
 After the container finishing running you can view it using `docker ps --all`{{execute interrupt}}.

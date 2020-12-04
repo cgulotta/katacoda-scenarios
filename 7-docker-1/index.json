@@ -1,5 +1,5 @@
 {
-  "title": "Lesson 7: The Dockerfiles",
+  "title": "Lesson 7: Writing Dockerfiles",
   "description": "In this scenario, we'll walk through some common workflows and functions in Docker.",
   "difficulty": "Intermediate",
   "time": "20 minutes",
