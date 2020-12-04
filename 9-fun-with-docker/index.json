@@ -1,0 +1,36 @@
+{
+  "title": "Lesson 9: Fun with Docker",
+  "description": "This scenario will showcase the power of Docker, with some fun!",
+  "difficulty" : "beginner",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1 Getting sources from git",
+        "text": "step1.md"
+      },
+      {
+        "title": "Start Crossbar.io",
+        "text": "step2.md"
+      },
+      {
+        "title": "Click the link and enjoy",
+        "text": "step3.md"
+      }
+
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+  "showdashboard": false,
+  "dashboards": [{"name": "Display 80", "port": 80}, {"name": "Display 8080", "port": 8080}],
+  "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
