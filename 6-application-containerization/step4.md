@@ -18,4 +18,4 @@ Docker Image, and run the Docker Container.
 **`docker build -t katacoda_example_game:latest .`{{execute}}** 
 
 ### 2. Run the Docker Container
-**`docker run -t katacoda_example_game:latest` {{execute}}**
+**`docker run -t katacoda_example_game:latest`{{execute}}**
