@@ -1,0 +1,39 @@
+{
+  "title": "Lesson 6: Application Containerization",
+  "description": "In this scenario, we'll introduce the concept of application containerization.",
+  "difficulty": "Intermediate",
+  "time": "10 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Containerization",
+        "text": "step1.md"
+      },
+      {
+        "title": "Docker",
+        "text": "step2.md"
+      },
+      {
+        "title": "Docker Container Engine",
+        "text": "step3.md"
+      },
+      {
+        "title": "Step 4",
+        "text": "step4.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uieditorpath": "/root/example",
+    "uilayout": "editor-terminal"
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}

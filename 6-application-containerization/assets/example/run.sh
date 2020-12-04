@@ -1,0 +1,1 @@
+docker run -t katacoda_example_game:latest
