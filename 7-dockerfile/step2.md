@@ -17,6 +17,7 @@ commits are cheap and containers can be created from any point in an image’s h
 source control.
 
 <pre class="file" data-filename="Dockerfile" data-target="append">
+# example RUN instruction
 RUN echo hello
 </pre>
 
@@ -37,6 +38,7 @@ The shell form:
 An ENTRYPOINT allows you to configure a container that will run as an executable.
 
 <pre class="file" data-filename="Dockerfile" data-target="append">
+# example ENTRYPOINT instruction
 ENTRYPOINT ["python3"]
 </pre>
 
@@ -59,6 +61,7 @@ These defaults can include an executable, or they can omit the executable,
 in which case you must specify an ENTRYPOINT instruction as well.
 
 <pre class="file" data-filename="Dockerfile" data-target="append">
+# example CMD instruction
 CMD ["example_script.py"]
 </pre>
 

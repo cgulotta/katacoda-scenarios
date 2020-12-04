@@ -1,12 +1,12 @@
 {
-  "title": "Lesson 7: Docker",
+  "title": "Lesson 7: The Dockerfile",
   "description": "In this scenario, we'll walk through some common workflows and functions in Docker.",
   "difficulty": "Intermediate",
-  "time": "15 minutes",
+  "time": "20 minutes",
   "details": {
     "steps": [
       {
-        "title": "Dockerfile",
+        "title": "Dockerfile Basics",
         "text": "step1.md"
       },
       {
@@ -14,15 +14,15 @@
         "text": "step2.md"
       },
       {
-        "title": "Step 3",
+        "title": "Adding files",
         "text": "step3.md"
       },
       {
-        "title": "Step 4",
+        "title": "Setting up the runtime environment",
         "text": "step4.md"
       },
       {
-        "title": "Step 5",
+        "title": "Other Instructions",
         "text": "step5.md"
       }
     ],

@@ -24,7 +24,8 @@ COPY has two forms:
 The COPY instruction copies new files or directories from <src> and adds them to the 
 filesystem of the container at the path <dest>.
 
-<pre class="file" data-filename="Dockerfile" data-target="insert" data-marker="RUN echo hello">
+<pre class="file" data-filename="Dockerfile" data-target="insert" data-marker="# example RUN instruction">
+# example COPY instruction
 COPY game_3.py example_script.py
 </pre>
 
