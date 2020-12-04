@@ -36,7 +36,7 @@ These defaults can include an executable, or they can omit the executable,
 in which case you must specify an ENTRYPOINT instruction as well.
 
 <pre class="file" data-filename="Dockerfile" data-target="append">
-CMD ["world"]
+CMD ["-c", "print('world')"]
 </pre>
 
 ## ENTRYPOINT
@@ -54,7 +54,7 @@ The shell form:
 An ENTRYPOINT allows you to configure a container that will run as an executable.
 
 <pre class="file" data-filename="Dockerfile" data-target="append">
-ENTRYPOINT ["echo"]
+ENTRYPOINT ["python3"]
 </pre>
 
 ## How CMD and ENTRYPOINT work together

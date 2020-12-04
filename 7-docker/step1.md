@@ -30,7 +30,7 @@ FROM may only be preceded by one or more ARG instructions, which declare argumen
 that are used in FROM lines in the Dockerfile.
 
 <pre class="file" data-filename="Dockerfile" data-target="prepend">
-FROM python3.8-slim
+FROM python:3.8-slim
 </pre>
 
-Here, we can set our Parent Image as `python3.8-slim`, a basic image with Python installed.
+Here, we can set our Parent Image as `python:3.8-slim`, a basic image with Python installed.
