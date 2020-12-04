@@ -25,17 +25,17 @@
 [*] COPY
 [ ] EXIT
 
->>Q5: True or False: Dockerfiles only use one  CMD instructions.<<
+>>Q5: True or False: Dockerfiles only use one  CMD instruction.<<
 (*) True
 ( ) False
 
 >>Q6: Which command uses a Dockerfile to make a Docker Image? <<
-( ) `docker construct`
-( ) `docker init`
-( ) `docker make`
-(*) `docker build`
+( ) docker construct
+( ) docker init
+( ) docker make
+(*) docker build
  
->>Q7: What does `docker run` do? <<
+>>Q7: What does "docker run" do? <<
 ( ) starts the Docker daemon
 (*) starts a Docker image
 ( ) build a Docker image
