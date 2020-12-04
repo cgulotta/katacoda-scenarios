@@ -23,7 +23,8 @@
     },
     "finish": {
       "text": "finish.md"
-    }
+    },
+    "assets": { "host01": [ {"file": "**/example/*", "target": "/root"} ] }
   },
   "environment": {
   "showdashboard": false,
