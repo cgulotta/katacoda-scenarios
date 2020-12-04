@@ -1,4 +1,4 @@
-# RUN, CMD, & ENTRYPOINT
+# RUN, ENTRYPOINT, & CMD
 
 ## RUN
 
@@ -20,24 +20,7 @@ source control.
 RUN echo hello
 </pre>
 
-## CMD
-
-The CMD instruction has three forms:
-
-- `CMD ["executable","param1","param2"]` (exec form, this is the preferred form)
-- `CMD ["param1","param2"]` (as default parameters to ENTRYPOINT)
-- `CMD command param1 param2` (shell form)
-
-There can only be one CMD instruction in a Dockerfile. 
-If you list more than one CMD then only the last CMD will take effect.
-
-The main purpose of a CMD is to provide defaults for an executing container. 
-These defaults can include an executable, or they can omit the executable, 
-in which case you must specify an ENTRYPOINT instruction as well.
-
-<pre class="file" data-filename="Dockerfile" data-target="append">
-CMD ["-c", "print('world')"]
-</pre>
+_This allows us to run commands while **building** the Docker Image._
 
 ## ENTRYPOINT
 
@@ -56,6 +39,32 @@ An ENTRYPOINT allows you to configure a container that will run as an executable
 <pre class="file" data-filename="Dockerfile" data-target="append">
 ENTRYPOINT ["python3"]
 </pre>
+
+_this sets the final executable for our container to be `python3`. 
+Later, we'll give this arguments_
+
+## CMD
+
+The CMD instruction has three forms:
+
+- `CMD ["executable","param1","param2"]` (exec form, this is the preferred form)
+- `CMD ["param1","param2"]` (as default parameters to ENTRYPOINT)
+- `CMD command param1 param2` (shell form)
+
+There can only be one CMD instruction in a Dockerfile. 
+If you list more than one CMD then only the last CMD will take effect.
+
+The main purpose of a CMD is to provide defaults for an executing container. 
+These defaults can include an executable, or they can omit the executable, 
+in which case you must specify an ENTRYPOINT instruction as well.
+
+<pre class="file" data-filename="Dockerfile" data-target="append">
+CMD ["example_script.py"]
+</pre>
+
+_this sets the default **arguments** to the executable we set with ENTRYPOINT_
+
+**when run, the docker container will execute `python3 example_script.py`**
 
 ## How CMD and ENTRYPOINT work together
 
