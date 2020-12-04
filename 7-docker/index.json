@@ -34,7 +34,6 @@
     },
     "assets": { "host01": [ {"file": "**/example/*", "target": "/root"} ] }
   },
-  "files": [ "example/Dockerfile"],
   "environment": {
     "uieditorpath": "/root/example",
     "uilayout": "editor-terminal"
