@@ -19,12 +19,10 @@
     },
     "finish": {
       "text": "finish.md"
-    },
-    "assets": { "host01": [ {"file": "**/example/*", "target": "/root"} ] }
+    }
   },
   "environment": {
-    "uieditorpath": "/root/example",
-    "uilayout": "editor-terminal"
+    "uilayout": "terminal"
   },
   "backend": {
     "imageid": "minikube-running"
