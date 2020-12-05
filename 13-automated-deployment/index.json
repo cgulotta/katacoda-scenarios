@@ -1,0 +1,38 @@
+{
+  "title": "Lesson 13: Automation",
+  "description": "In this scenario, we'll cover the basics of Automated Deployment",
+  "difficulty": "Intermediate",
+  "time": "15",
+  "details": {
+    "steps": [
+      {
+        "title": "Continuous Integration & Continuous Deployment",
+        "text": "step1.md"
+      },
+      {
+        "title": "Continuous Integration with Jenkins",
+        "text": "step2.md"
+      },
+      {
+        "title": "Continuous Deployment with ArgoCD",
+        "text": "step3.md"
+      },
+      {
+        "title": "Step 4",
+        "text": "step4.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "editor-terminal"
+  },
+  "backend": {
+    "imageid": "minikube-running"
+  }
+}
